@@ -1,10 +1,10 @@
 /*****harold*****/
 /* #harold(headerfqwhkqilkzf) #css starts  */
 .headerfqwhkqilkzf .navbar-light .navbar-nav .nav-link{
-    color: rgb(0 0 0);
+    color: rgb(0 0 0)
 }
 .headerfqwhkqilkzf .navbar-light .navbar-nav .nav-link:hover{
-    color: #06BBCD;
+    color: #06BBCD
 }
 /* #harold(headerfqwhkqilkzf) #css ends  */
 /*****harold*****/
@@ -17,13 +17,32 @@
 
     .caavoduJuy9P4WAKtH2J .btn-outline-primary {
         color: #000000;
-        border-color: #000000;
+        font-weight: bold;
+        border-color: #000000
     }
 
     .btn-outline-primary:hover {
         color: #fff;
         background-color: #06BBCD;
-        border-color: #06BBCD;
+        border-color: #06BBCD
     }
     /* #caavo(caavoduJuy9P4WAKtH2J) #css ends  */
 /*****caavo*****/
+
+/*****fori*****/
+/* #fori(foriftgon8pdoif) #css starts */
+.foriftgon8pdoif h3{
+    color: #06BBCD
+}
+/* #fori(foriftgon8pdoif) #css starts */
+/*****fori*****/ 
+
+/*****cjaime*****/
+    /* #cjaime(calltoactioncahjtby06rt) #css starts  */
+    .calltoactioncahjtby06rt .btn-secondary{
+    background-color: #06BBCD;
+    font-weight: bold;
+    border: #06BBCD
+    }
+    /* #cjaime(calltoactioncahjtby06rt) #css ends  */
+/*****cjaime*****/
