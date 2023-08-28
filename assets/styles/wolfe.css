@@ -83,8 +83,11 @@
 
 /*****flores*****/
     /* #flores(floresfts2q9glqh3) #css starts */
-    .floresfts2q9glqh3  {
-       
+    .floresfts2q9glqh3 .bg-dark {
+        background-color: #171D37 !important
+     }
+     .floresfts2q9glqh3 a{
+        color: #06BBCD
      }
     /* #flores(floresfts2q9glqh3) #css ends */
 /*****flores*****/
