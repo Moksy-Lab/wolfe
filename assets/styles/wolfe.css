@@ -24,14 +24,15 @@
 
     .caavoduJuy9P4WAKtH2J .btn-outline-primary {
         color: #37423b;
-        font-weight: bold;
+        font-weight: 600;
         border-color: #37423b;
         border-radius: 30px;
         padding-left: 30px;
         padding-right: 30px;
     }
 
-    .btn-outline-primary:hover {
+    .caavoduJuy9P4WAKtH2J .btn-outline-primary:not(:disabled):not(.disabled):active,
+    .caavoduJuy9P4WAKtH2J .btn-outline-primary:hover {
         color: #fff;
         background-color: #06BBCD;
         border-color: #06BBCD
@@ -57,9 +58,19 @@
         padding: 5.5rem 0
     }
     .calltoactioncahjtby06rt .btn-secondary {
+    background-color: #fff;
+    font-weight: 600;
+    border: 1px solid #37423b;
+    color: #37423b;
+    border-radius: 30px;
+    padding-left: 30px;
+    padding-right: 30px
+    }
+    .calltoactioncahjtby06rt .btn-secondary:hover,
+    .calltoactioncahjtby06rt .btn-secondary:not(:disabled):not(.disabled):active{
+        color: #fff;
         background-color: #06BBCD;
-        font-weight: bold;
-        border: #06BBCD;
+        border-color: #06BBCD
     }
     /* #cjaime(calltoactioncahjtby06rt) #css ends  */
 /*****cjaime*****/
