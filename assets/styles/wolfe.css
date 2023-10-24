@@ -92,8 +92,17 @@
 /* #basu(d12294b36d7b134b) #css starts  */
 
 .bannerd12294b36d7b134b .button {
-    background-color: #06BBCD;
-    color: black
+    background-color: #fff;
+    font-weight: 600;
+    border: 1px solid #37423b;
+    color: #37423b;
+    border-radius: 30px;
+    padding-left: 30px;
+    padding-right: 30px
+}
+.bannerd12294b36d7b134b .button:hover,
+.bannerd12294b36d7b134b .btn-secondary:not(:disabled):not(.disabled):active{
+    
 }
 
 /* #basu(d12294b36d7b134b) #css ends  */
