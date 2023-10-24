@@ -102,7 +102,9 @@
 }
 .bannerd12294b36d7b134b .button:hover,
 .bannerd12294b36d7b134b .btn-secondary:not(:disabled):not(.disabled):active{
-    
+    color: #fff;
+    background-color: #06BBCD;
+    border-color: #06BBCD
 }
 
 /* #basu(d12294b36d7b134b) #css ends  */
@@ -116,14 +118,20 @@
 .teamtmi4xt29bn1 h1 {
     font-size: 2rem
 }
+.teamtmi4xt29bn1 h4 {
+    margin-top: 10px
+}
 /* #tammy(teamtmi4xt29bn1) #css ends */
 /*****tammy*****/
 
 /*****tioni*****/
     /* #tioni(testimonialtmrwms6esfu) #css starts  */
     
+    .testimonialtmrwms6esfu .fdb-block {
+        padding: 5.5rem 0
+    }
        .testimonialtmrwms6esfu strong {      
-          color: #06BBCD
+          color: #37423b
         }
 
           .testimonialtmrwms6esfu  .fdb-block .fdb-touch {
@@ -135,8 +143,14 @@
 
 /*****flores*****/
     /* #flores(floresfts2q9glqh3) #css starts */
+    .floresfts2q9glqh3 .fdb-block {
+        padding: 2.5rem 0
+    }
     .floresfts2q9glqh3 .bg-dark {
-        background-color: #171D37 !important
+        background-color: #37423b !important
+     }
+     .floresfts2q9glqh3 h3 {
+        font-size: 25px
      }
      .floresfts2q9glqh3 a{
         color: #06BBCD
