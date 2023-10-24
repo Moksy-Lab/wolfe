@@ -23,12 +23,12 @@
     }
 
     .caavoduJuy9P4WAKtH2J .btn-outline-primary {
-        color: #000000;
+        color: #37423b;
         font-weight: bold;
-        border-color: #000000;
+        border-color: #37423b;
         border-radius: 30px;
         padding-left: 30px;
-    padding-right: 30px;
+        padding-right: 30px;
     }
 
     .btn-outline-primary:hover {
@@ -41,18 +41,25 @@
 
 /*****fori*****/
 /* #fori(foriftgon8pdoif) #css starts */
+.foriftgon8pdoif .fdb-block {
+    padding: 5.5rem 0
+}
 .foriftgon8pdoif h3{
-    color: #06BBCD
+    margin-top: 10px;
+    color: #37423b
 }
 /* #fori(foriftgon8pdoif) #css starts */
 /*****fori*****/ 
 
 /*****cjaime*****/
     /* #cjaime(calltoactioncahjtby06rt) #css starts  */
-    .calltoactioncahjtby06rt .btn-secondary{
-    background-color: #06BBCD;
-    font-weight: bold;
-    border: #06BBCD
+    .calltoactioncahjtby06rt .fdb-block {
+        padding: 5.5rem 0
+    }
+    .calltoactioncahjtby06rt .btn-secondary {
+        background-color: #06BBCD;
+        font-weight: bold;
+        border: #06BBCD;
     }
     /* #cjaime(calltoactioncahjtby06rt) #css ends  */
 /*****cjaime*****/
