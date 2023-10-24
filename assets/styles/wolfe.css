@@ -110,10 +110,12 @@
 
 /*****tammy*****/ 
 /* #tammy(teamtmi4xt29bn1) #css starts */
-.teamtmi4xt29bn1  {
-    margin-top: 15px;
-    color: #06BBCD 
-   }
+.teamtmi4xt29bn1 .fdb-block {
+     padding: 5.5rem 0
+}
+.teamtmi4xt29bn1 h1 {
+    font-size: 2rem
+}
 /* #tammy(teamtmi4xt29bn1) #css ends */
 /*****tammy*****/
 
