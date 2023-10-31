@@ -6,9 +6,9 @@ Moksy is your premier destination for open-source and 💯% free professional e-
 ### Our Mission
 To democratize e-learning by offering high-quality, professional templates at no cost. Designed on the Bootstrap framework, our templates are not only responsive but also meticulously documented, ensuring adaptability across various platforms.
 
-## Sarah: eLearning Redefined
+## Wolfe: eLearning Redefined
 
-Introducing **Sarah**, a cutting-edge eLearning template tailored to revolutionize your educational experience. Built with the modern educator and learner in mind, it effortlessly combines aesthetics with functionality.
+Introducing **Wolfe**, a cutting-edge eLearning template tailored to revolutionize your educational experience. Built with the modern educator and learner in mind, it effortlessly combines aesthetics with functionality.
 
 ### Key Features:
 - **Responsive Design:** Seamless experience across devices.
@@ -36,31 +36,31 @@ Introducing **Sarah**, a cutting-edge eLearning template tailored to revolutioni
 
 ### Tags:
 - #eLearningTemplate
-- #Sarah
+- #Wolfe
 - #ResponsiveDesign
 - #OnlineEducation
 - #InteractiveUI
 - #Education2023
 
-### What is Sarah :
-"Sarah is a top-tier eLearning template, designed to elevate online educational platforms. With its responsive design and interactive UI, it stands out as a choice for educators aiming for excellence. Experience the future of eLearning with Sarah."
+### What is Wolfe :
+"Wolfe is a high-caliber eLearning template that elevates online educational platforms. Its responsive design and interactive UI make it a standout choice for educators striving for excellence. Embrace the future of eLearning with Wolfe."
 
-### Why Choose Sarah?
+### Why Choose Wolfe?
 **High Quality:** Built to the latest web standards ensuring quality and integrity.
 
 **SEO Ready:** Integrated with best practices in SEO, ensuring your platform's online visibility.
 
 **User-Centric:** Designed with user experience at its core.
 
-Harness the power of **Sarah** for a transformative eLearning journey.
+Harness the power of **Wolfe** for a transformative eLearning journey.
 
 
 ### Experience Moksy Live
 #### Moksy Official Site
-[Sarah](https://moksy.com/templates/sarah/?project_id=21684)
+[Wolfe](https://moksy.com/templates/wolfe/?project_id=11423)
 
 #### GitHub Live Preview
-[Sarah](https://moksy-lab.github.io/sarah/)
+[Wolfe](https://moksy-lab.github.io/wolfe/)
 
 ### Licensing
 Moksy proudly stands as an open-source initiative by [moksy.com](https://moksy.com), licensed under the [MIT](https://opensource.org/licenses/MIT). We, at moksy.com, reserve the right to modify the license terms for future releases.
@@ -81,7 +81,7 @@ Every team member at Moksy has dedicated themselves to serve the community. Your
 
 ### Contribute & Collaborate
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" width="40" height="40"/>
-<a href="https://github.com/Moksy-Lab/sarah">
+<a href="https://github.com/Moksy-Lab/wolfe">
 Join our community and contribute to an ever-evolving platform.
 </a>
 
